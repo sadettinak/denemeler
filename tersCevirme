@@ -1,0 +1,6 @@
+String str ="Kaba";
+        String ters = "";
+        for (int i = str.length()-1 ; i>-1; i--) {
+            char c = str.charAt(i);
+            ters = ters+c;        }        System.out.print(ters);
+        System.out.println();
