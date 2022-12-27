@@ -4,3 +4,4 @@ String str ="Kaba";
             char c = str.charAt(i);
             ters = ters+c;        }        System.out.print(ters);
         System.out.println();
+düzenle
